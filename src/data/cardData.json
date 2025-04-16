@@ -1,0 +1,197 @@
+[
+  
+  {
+    "name": "MARGHERITA",
+    "category": "Pizza",
+    "foodType": "Veg",
+    "price": { "regular": "69", "medium": "159", "large": "219" },
+    "description": "A hugely popular margherita, with a deliciously tangy single cheese topping",
+    "img": "https://www.dominos.co.in/files/items/Double_Cheese_Margherita.jpg"
+  },
+  {
+    "name": "FARM HOUSE",
+    "category": "Pizza",
+    "foodType": "Veg",
+    "price": { "regular": "149", "medium": "279", "large": "399" },
+    "description": "Delightful combination of onion, capsicum, tomato & mushroom",
+    "img": "https://www.dominos.co.in/files/items/Farmhouse.jpg"
+  },
+  {
+    "name": "PEPPY PANEER",
+    "category": "Pizza",
+    "foodType": "Veg",
+    "price": { "regular": "149", "medium": "299", "large": "459" },
+    "description": "Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika",
+    "img": "https://www.dominos.co.in/files/items/Peppy_Paneer.jpg"
+  },
+  {
+    "name": "MEXICAN GREEN WAVE",
+    "category": "Pizza",
+    "foodType": "Veg",
+    "price": { "regular": "139", "medium": "269", "large": "419" },
+    "description": "Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno",
+    "img": "https://www.dominos.co.in/files/items/Mexican_Green_Wave.jpg"
+  },
+  {
+    "name": "DELUXE VEGGIE",
+    "category": "Pizza",
+    "foodType": "Veg",
+    "price": { "regular": "159", "medium": "309", "large": "459" },
+    "description": "Veggies loaded: onion, capsicum, mushroom, and golden corn",
+    "img": "https://www.dominos.co.in/files/items/Deluxe_Veggie.jpg"
+  },
+  {
+    "name": "VEG EXTRAVAGANZA",
+    "category": "Pizza",
+    "foodType": "Veg",
+    "price": { "regular": "179", "medium": "349", "large": "499" },
+    "description": "Loaded with black olives, capsicum, onion, grilled mushroom & more",
+    "img": "https://www.dominos.co.in/files/items/Veg_Extravaganza.jpg"
+  },
+  {
+    "name": "CHEESE N CORN",
+    "category": "Pizza",
+    "foodType": "Veg",
+    "price": { "regular": "129", "medium": "249", "large": "389" },
+    "description": "Sweet corn and extra cheese, a true delight",
+    "img": "https://www.dominos.co.in/files/items/cheese_n_corn.jpg"
+  },
+  {
+    "name": "PANEER MAKHANI",
+    "category": "Pizza",
+    "foodType": "Veg",
+    "price": { "regular": "159", "medium": "309", "large": "459" },
+    "description": "Rich Indian makhani sauce topped with soft paneer",
+    "img": "https://www.dominos.co.in/files/items/Paneer_Makhni.jpg"
+  },
+  {
+    "name": "INDI TANDOORI PANEER",
+    "category": "Pizza",
+    "foodType": "Veg",
+    "price": { "regular": "179", "medium": "329", "large": "499" },
+    "description": "Tandoori paneer with capsicum, onion and mint mayo drizzle",
+    "img": "https://www.dominos.co.in/files/items/Indi_Tandoori_Paneer.jpg"
+  },
+  {
+    "name": "VEGGIE PARADISE",
+    "category": "Pizza",
+    "foodType": "Veg",
+    "price": { "regular": "139", "medium": "269", "large": "399" },
+    "description": "Golden corn, black olives, capsicum & red paprika combo",
+    "img": "https://www.dominos.co.in/files/items/Veggie_Paradise.jpg"
+  },
+  {
+    "name": "CHICKEN SAUSAGE",
+    "category": "Pizza",
+    "foodType": "Non-Veg",
+    "price": { "regular": "149", "medium": "299", "large": "449" },
+    "description": "American classic! Spicy, herbed chicken sausage on pizza",
+    "img": "https://www.dominos.co.in/files/items/Chicken_Sausage.jpg"
+  },
+  {
+    "name": "CHICKEN GOLDEN DELIGHT",
+    "category": "Pizza",
+    "foodType": "Non-Veg",
+    "price": { "regular": "169", "medium": "319", "large": "469" },
+    "description": "Double pepper barbecue chicken, golden corn and extra cheese",
+    "img": "https://www.dominos.co.in/files/items/Chicken_Golden_Delight.jpg"
+  },
+  {
+    "name": "PEPPER BARBECUE CHICKEN",
+    "category": "Pizza",
+    "foodType": "Non-Veg",
+    "price": { "regular": "159", "medium": "309", "large": "459" },
+    "description": "Pepper barbecue chicken for that extra zing",
+    "img": "https://www.dominos.co.in/files/items/Pepper_Barbeque.jpg"
+  },
+  {
+    "name": "CHICKEN DOMINATOR",
+    "category": "Pizza",
+    "foodType": "Non-Veg",
+    "price": { "regular": "189", "medium": "349", "large": "499" },
+    "description": "Loaded with grilled chicken, chicken tikka, chicken sausage & chicken keema",
+    "img": "https://www.dominos.co.in/files/items/Chicken_Dominator.jpg"
+  },
+  {
+    "name": "INDI CHICKEN TIKKA",
+    "category": "Pizza",
+    "foodType": "Non-Veg",
+    "price": { "regular": "179", "medium": "329", "large": "499" },
+    "description": "The flavor of India – chicken tikka, onion, mint mayo & more",
+    "img": "https://www.dominos.co.in/files/items/Indian_Chicken_Tikka.jpg"
+  },
+
+ 
+  {
+    "name": "Garlic Breadsticks",
+    "category": "Sides",
+    "price": "99",
+    "description": "Baked to perfection. Your perfect pizza partner!",
+    "img": "https://www.dominos.co.in/files/items/GarlicBread.jpg"
+  },
+  {
+    "name": "Stuffed Garlic Bread",
+    "category": "Sides",
+    "price": "139",
+    "description": "Garlic bread stuffed with mozzarella and corn",
+    "img": "https://www.dominos.co.in/files/items/StuffedGarlicBread.jpg"
+  },
+  {
+    "name": "Cheesy Dip",
+    "category": "Sides",
+    "price": "25",
+    "description": "Cheesy, creamy dip to elevate every bite",
+    "img": "https://www.dominos.co.in/files/items/Cheesy_Dip.jpg"
+  },
+  {
+    "name": "Taco Mexicana (Veg)",
+    "category": "Sides",
+    "price": "109",
+    "description": "Spicy Mexican filling in a crunchy taco shell",
+    "img": "https://www.dominos.co.in/files/items/Veg_Taco_Mexicana.jpg"
+  },
+  {
+    "name": "Chicken Wings",
+    "category": "Sides",
+    "price": "129",
+    "description": "Succulent chicken wings, spiced and baked",
+    "img": "https://www.dominos.co.in/files/items/Chicken_Wings.jpg"
+  },
+
+ 
+  {
+    "name": "Pepsi",
+    "category": "Beverage",
+    "price": "60",
+    "description": "330ml chilled Pepsi can",
+    "img": "https://www.dominos.co.in/files/items/Pepsi_can.jpg"
+  },
+  {
+    "name": "Pepsi Black",
+    "category": "Beverage",
+    "price": "60",
+    "description": "No calorie, bold taste Pepsi Black",
+    "img": "https://www.dominos.co.in/files/items/Pepsi_Black.jpg"
+  },
+  {
+    "name": "Mountain Dew",
+    "category": "Beverage",
+    "price": "60",
+    "description": "Crack open the freshness of Mountain Dew",
+    "img": "https://www.dominos.co.in/files/items/Mountain_Dew.jpg"
+  },
+  {
+    "name": "7Up",
+    "category": "Beverage",
+    "price": "60",
+    "description": "Lemon-lime flavored sparkling drink",
+    "img": "https://www.dominos.co.in/files/items/7UP.jpg"
+  },
+  {
+    "name": "Mirinda",
+    "category": "Beverage",
+    "price": "60",
+    "description": "Tangy orange drink to refresh you instantly",
+    "img": "https://www.dominos.co.in/files/items/Mirinda.jpg"
+  }
+]
